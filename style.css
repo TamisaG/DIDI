@@ -4,11 +4,10 @@ body{
     text-align: center;
     display: inline-block;
     margin: 100px;
-    content:center;
+    container:center;
     justify-content: center;
     align-items: center;
     font-family: fantasy;
-    .container {text-align: center;}
     
 
     
