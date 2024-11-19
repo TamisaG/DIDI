@@ -5,6 +5,8 @@ body{
     display: inline-block;
     margin: 80px;
     content:center;
+    justify-content: center;
+    align-items: center;
     
 
     
