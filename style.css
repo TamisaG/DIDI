@@ -2,10 +2,9 @@ body{
     background-color:aquamarine;
     color: rgb(185, 29, 76);
     text-align: center;
-    display: inline-block;
+    display: center;
     margin: 100px;
     container:center;
-    justify-content: center;
     align-items: center;
     font-family: fantasy;
     
