@@ -16,7 +16,7 @@ body{
     overflow: hidden;
     border-radius: 2px;
     transition: all 0.5s;
-    display: inline-block;
+    display: inline;
     justify-content: center;
     align-items: center;
 }
