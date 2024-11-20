@@ -28,9 +28,10 @@ body{
 .card a span{
 min-width: 16em;
 padding: 0.5em;
+transform: rotate(-90);
 transition: all 0.5s;
 }
 
-.card a: hover span {
-    transform: rotate (0);
+.card a:hover span {
+    transform:rotate(0);
 }
