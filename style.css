@@ -6,9 +6,21 @@ body{
     margin: 50px;
     container:center;
     align-items: center;
-    font-family: fantasy;
-    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-    
+}
 
+.card{
+    height: 100%;
+    flex: 1;
+    overflow: hidden;
+    border-radius: 2px;
+    transition: all 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card a:hover{
+    flex:4 ;
 }
