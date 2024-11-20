@@ -2,7 +2,7 @@ body{
     background-color:aquamarine;
     color: rgb(185, 29, 76);
     text-align: center;
-    display: flex;
+    display: inline;
     margin: 50px;
     container:center;
     align-items: center;
